@@ -15,25 +15,22 @@ ul {
 }
 
 .status {
-    font-size: 30px;
-    margin-bottom: 20px;
-    text-align: center;
-    font-weight: 800;
+    margin-bottom: 10px;
 }
 
 .square {
     background: #fff;
-    border: 2px solid #999;
+    border: 1px solid #999;
     float: left;
-    font-size: 64px;
+    font-size: 24px;
     font-weight: bold;
     line-height: 34px;
-    height: 136px;
+    height: 34px;
     margin-right: -1px;
     margin-top: -1px;
     padding: 0;
     text-align: center;
-    width: 136px;
+    width: 34px;
 }
 
 .square:focus {
